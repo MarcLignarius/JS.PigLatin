@@ -18,7 +18,7 @@ _{This is a detailed description of your application. Its purpose and usage.  Gi
 
 | Behavior | Input | Output |
 | ------------- |:-------------:| -----:|
-| Lorem | x | true/false |
+| The program does nothing to non-alphabetical characters, since they do not contain consonants or vowels. | 3 | 3 |
 | Lorem | x | true/false |
 | Lorem | x | true/false |
 | Lorem | x | true/false |
