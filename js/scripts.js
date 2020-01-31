@@ -8,7 +8,8 @@ $(function() {
   });
 
   function translator(userInput) {
-    let result = userInput;
+    let result = [];
+    result.push(userInput);
     return result;
   }
 });
